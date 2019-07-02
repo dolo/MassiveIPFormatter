@@ -2,6 +2,7 @@
 formatter for massive ip addresses
 
 Input: massive multiple types of IP addresses 
+
 Output: Single IP addresses in leagal format
 
 usage: python formatter.py [syntax]
